@@ -1,0 +1,8 @@
+{
+    "gloss_list": ["你", "好"],
+    "timeline": [
+      { "index": 0, "gloss": "你", "bvh": "Pointing.bvh", "path_abs": "...", "start_time": 0.0, "duration": 3.5 },
+      { "index": 1, "gloss": "好", "bvh": "Sitting Thumbs Up.bvh", "path_abs": "...", "start_time": 3.5, "duration": 4 }
+    ],
+    "total_duration": 7.5
+  }

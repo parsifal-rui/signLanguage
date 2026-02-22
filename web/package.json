@@ -1,0 +1,8 @@
+{
+  "name": "signlanguage-phase3",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "three": "^0.170.0"
+  }
+}
